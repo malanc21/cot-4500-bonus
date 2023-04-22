@@ -12,5 +12,5 @@ Running Python
 
 To run this project, follow the following instructions:
 1) Open a terminal on Mac/Linux or Command Line on Windows
-2) Go to the project folder i.e. cd ~/Bonus_Assignment
+2) Go to the project folder i.e. cd ~/cot-4500-bonus
 3) Execute python3 src/main/bonus_assignment.py
